@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skrowrepap&label=Profile%20views&color=0e75b6&style=flat" alt="skrowrepap" /> </p>
 
-- 🔭 I’m currently working [fullstackopen](https://github.com/SkrowRepap/fullstack-submission)
+🔭 I’m currently working [fullstackopen](https://github.com/SkrowRepap/fullstack-submission)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

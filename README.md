@@ -13,5 +13,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skrowrepap&show_icons=true&locale=en" alt="skrowrepap" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skrowrepap&theme=tokyonight&include_all_commits)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skrowrepap&theme=tokyonight&include_all_commits=true)
 

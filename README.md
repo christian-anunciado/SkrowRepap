@@ -1,11 +1,12 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skrowrepap&label=Profile%20views&color=0e75b6&style=flat" alt="skrowrepap" /> </p>
-<h2 align="left">Hi 👋, I'm Christian Jay Anunciado</h1>
-<h3 align="left">I’m interested in all stuff related to programming.</h3>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=skrowrepap&label=Profile%20views&color=0e75b6&style=flat" alt="skrowrepap" /> 
+</p>
 
+<h3 align="left">Hi 👋, I'm Christian Jay Anunciado</h1>
+<h2 align="left">I’m interested in all stuff related to programming.</h3>
 
-
-🔭 I’m currently working on a course about Full Stack Development in [fullstackopen](https://github.com/SkrowRepap/fullstack-submission)
+- I’m currently working on a course about Full Stack Development in [fullstackopen](https://github.com/SkrowRepap/fullstack-submission)
 
 <p align="left">
 </p>

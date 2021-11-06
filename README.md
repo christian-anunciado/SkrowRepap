@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="left">Hi 👋, I'm Christian Jay Anunciado</h1>
-<h2 align="left">I’m interested in all stuff related to programming.</h3>
+<h4 align="left">I’m interested in all stuff related to programming.</h3>
 
 - I’m currently working on a course about Full Stack Development in [fullstackopen](https://github.com/SkrowRepap/fullstack-submission)
 

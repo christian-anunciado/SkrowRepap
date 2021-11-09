@@ -2,7 +2,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=skrowrepap&label=Profile%20views&color=0e75b6&style=flat" alt="skrowrepap" /> 
 </p>
-
+## GitHub Profile
 <h3 align="left">Hi 👋, I'm Christian Jay Anunciado</h1>
 <h4 align="left">I’m interested in all stuff related to programming.</h3>
 
@@ -29,7 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skrowrepap&theme=tokyonight&layout=compact&langs_count=10)
 
-![asd Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skrowrepap&theme=tokyonight&layout=compact)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skrowrepap&theme=tokyonight&layout=compact)
 
 
 

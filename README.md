@@ -29,7 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skrowrepap&theme=tokyonight&layout=compact&langs_count=10)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skrowrepap&theme=tokyonight&layout=compact)
+![asd Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skrowrepap&theme=tokyonight&layout=compact)
 
 
 

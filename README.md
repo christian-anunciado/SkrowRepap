@@ -1,7 +1,4 @@
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=skrowrepap&label=Profile%20views&color=0e75b6&style=flat" alt="skrowrepap" /> 
-</p>
 
 ## Hello World! :earth_asia:
 <h4 align="left">I’m interested in all stuff related to programming.</h3>
@@ -27,9 +24,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skrowrepap&show_icons=true&locale=en&theme=tokyonight" alt="skrowrepap" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skrowrepap&theme=tokyonight&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skrowrepap&theme=tokyonight&layout=compact&langs_count=10&hide=css)
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skrowrepap&theme=tokyonight&layout=compact)
+
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=skrowrepap&label=Profile%20views&color=0e75b6&style=flat" alt="skrowrepap" /> 
+</p>
 
 
 

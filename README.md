@@ -3,7 +3,7 @@
 ## Hello World! :earth_asia:
 <h4 align="left">I’m interested in all stuff related to programming.</h3>
 
-- I’m currently working on a course about Full Stack Development in [fullstackopen](https://github.com/SkrowRepap/fullstack-submission)
+- I’m currently working on a course about Full Stack Development in [fullstackopen](https://fullstackopen.com/en/about/)
 
 <p align="left">
 </p>

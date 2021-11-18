@@ -3,7 +3,7 @@
 ## Hello World! :earth_asia:
 <h4 align="left">I’m interested in all stuff related to programming.</h3>
 
-- I’m currently working on a course about Full Stack Development in <a href="https://fullstackopen.com/en/about/" target="_blank">fullstackopen</a>
+- I’m currently working on a course about Full Stack Development in [fullstackopen](https://fullstackopen.com/en/about/){:target="_blank"}
 
 <p align="left">
 </p>

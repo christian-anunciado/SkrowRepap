@@ -17,9 +17,10 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     
-  <p float="left">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=skrowrepap&show_icons=true&locale=en&theme=tokyonight" alt="skrowrepap" />
-  &nbsp; &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrowrepap&theme=tokyonight&layout=compact&langs_count=10&hide=css"/>
+  <p align="left">
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skrowrepap&show_icons=true&locale=en&theme=tokyonight" alt="skrowrepap" /> -->
+  &nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrowrepap&theme=tokyonight&layout=compact&langs_count=10&hide=css"/>
 </p>
 <img align"left" src="https://github-readme-stats.vercel.app/api/wakatime?username=skrowrepap&theme=tokyonight&layout=compact" />
 

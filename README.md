@@ -20,9 +20,10 @@
   <p align="left">
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skrowrepap&show_icons=true&locale=en&theme=tokyonight" alt="skrowrepap" /> -->
   &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrowrepap&theme=tokyonight&layout=compact&langs_count=10&hide=css"/>
+
 </p>
 <img align"left" src="https://github-readme-stats.vercel.app/api/wakatime?username=skrowrepap&theme=tokyonight&layout=compact" />
+
 
 
 <p align="left"> 

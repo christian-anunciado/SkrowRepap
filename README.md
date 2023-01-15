@@ -7,7 +7,7 @@ Student. Learner. Developer
 Christian is a JavaScript Developer, Student, and Learner who is passionate about learning JavaScript-related technologies. He is a Computer Science student at Cebu Institute of Technology - University.
 
 * 🌍  I'm based in Cebu City, PH
-* 🚀  I'm currently learning on [The Complete 2022 Web Development Bootcamp (Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps)](https://www.udemy.com/share/1013gG/)
+* 🚀  I'm currently building **Personal Project Websites**
 * 🧠  I'm learning everything JavaScript
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: Dota 2 is my favorite childhood video game!

@@ -31,4 +31,4 @@ Shoutout to [James Quick](https://github.com/jamesqquick/jamesqquick) for the in
 
 <br/> <a href="https://github.com/SkrowRepap" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/last-commit/SkrowRepap/ninja-store?style=for-the-badge&color=0891b2&labelColor=1c1917&label=LAST%20COMMIT&logoColor=1c1917&logo=GitHub&logoColor=1c1917&" /></a> <a href="https://github.com/SkrowRepap" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/languages/top/SkrowRepap/fullstack-submission?style=for-the-badge&labelColor=1c1917&color=0891b2" /></a>
+src="https://img.shields.io/github/languages/top/SkrowRepap/ninja-store?style=for-the-badge&labelColor=1c1917&color=0891b2" /></a>

@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christian Jay Anunciado
 =====================================================================================================================================
 
-Student. Learner. Developer
+Student. Learner. Developer.
 ----------------------------
 
 Christian is a JavaScript Developer, Student, and Learner who is passionate about learning JavaScript-related technologies. He is a Computer Science student at Cebu Institute of Technology - University.
@@ -12,7 +12,8 @@ Christian is a JavaScript Developer, Student, and Learner who is passionate abou
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: Dota 2 is my favorite childhood video game!
 
-Shoutout to [James Quick](https://github.com/jamesqquick/jamesqquick) for the inspiration!
+Feel free to contact me [below](#socials).
+
 
 ### Skills
 

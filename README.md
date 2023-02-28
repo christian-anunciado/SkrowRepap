@@ -8,7 +8,7 @@ Christian is a JavaScript Developer, Student, and Learner who is passionate abou
 
 * 🌍  I'm based in Cebu City, PH
 * 🚀  I'm currently building **Personal Project Websites**
-* 🧠  I'm learning everything JavaScript
+* 🧠  I'm learning everything JavaScript / Typescript
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: Dota 2 is my favorite childhood video game!
 
@@ -24,6 +24,7 @@ Feel free to contact me [below](#socials).
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 </p>
 
 ### Socials

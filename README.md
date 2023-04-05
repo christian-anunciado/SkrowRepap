@@ -10,7 +10,7 @@ Christian is a JavaScript Developer, Student, and Learner who is passionate abou
 * 🚀  I'm currently building **Personal Project Websites**
 * 🧠  I'm learning everything JavaScript / Typescript
 * 😄 Pronouns: he/him
-* ⚡ Fun fact: Dota 2 is my favorite childhood video game!
+* ⚡ Fun fact: Treasure Planet is my favorite childhood movie!
 
 Feel free to contact me [below](#socials).
 
@@ -32,5 +32,5 @@ Feel free to contact me [below](#socials).
 <p align="left"> <a href="https://github.com/SkrowRepap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/christiananunciado/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://web.facebook.com/IamBlank015/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://discord.com/users/8018" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
 <br/> <a href="https://github.com/SkrowRepap" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/last-commit/SkrowRepap/youtube-clone-react-ts?style=for-the-badge&color=0891b2&labelColor=1c1917&label=LAST%20COMMIT&logoColor=1c1917&logo=GitHub&logoColor=1c1917&" /></a> <a href="https://github.com/SkrowRepap" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/languages/top/SkrowRepap/youtube-clone-react-ts?style=for-the-badge&labelColor=1c1917&color=0891b2" /></a>
+src="https://img.shields.io/github/last-commit/SkrowRepap/TINA2.0?style=for-the-badge&color=0891b2&labelColor=1c1917&label=LAST%20COMMIT&logoColor=1c1917&logo=GitHub&logoColor=1c1917&" /></a> <a href="https://github.com/SkrowRepap" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/languages/top/SkrowRepap/TINA2.0?style=for-the-badge&labelColor=1c1917&color=0891b2" /></a>

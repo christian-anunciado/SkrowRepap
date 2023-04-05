@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christian Jay Anunciado
 =====================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica+Neue&weight=500&size=22&duration=1000&pause=1000&vCenter=true&repeat=false&width=435&height=40&lines=Student.;Learner.;Developer.;Student.+Learner.+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica+Neue&weight=500&duration=2000&pause=2000&vCenter=true&repeat=false&width=435&height=40&lines=Student.;Learner.;Developer.;Student.+Learner.+Developer.)](https://git.io/typing-svg)
 ----------------------------
 
 Christian is a JavaScript Developer, Student, and Learner who is passionate about learning JavaScript-related technologies. He is a Computer Science student at Cebu Institute of Technology - University.

@@ -4,10 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica+Neue&weight=500&duration=2000&pause=1500&vCenter=true&width=550&height=40&lines=Full+Stack+Developer.;Collaborator.;Learner.;Full+Stack+Developer.+Collaborator.+Learner.)](https://git.io/typing-svg)
 ----------------------------
 
-Christian is a JavaScript Developer, Collaborator and Learner who is passionate about learning JavaScript-related technologies. He is a Computer Science student at Cebu Institute of Technology - University.
+Christian is a JavaScript Developer, Collaborator and Learner who is passionate about learning JavaScript-related technologies. Christian is committed to writing clean, efficient and maintainable code, and enjoys working on projects that challenge him to expand his skill set and knowledge base.
 
 * 🌍  I'm based in Cebu City, PH
 * 🚀  I'm currently building **Personal Project Websites**
+* 🏡  Current [project](https://tina-2-0.vercel.app/)
 * 🧠  I'm learning everything JavaScript / Typescript
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: Treasure Planet is my favorite childhood movie!

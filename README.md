@@ -7,7 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Christian is a JavaScript Developer, Collaborator and Learner who is passionate about learning JavaScript-related technologies. Christian is committed to writing clean, efficient and maintainable code, and enjoys working on projects that challenge him to expand his skill set and knowledge base.
 
 * 🌍  I'm based in Cebu City, PH
-* 🚀  I'm currently building **Personal Project Websites**
+* 🏡  My [website](https://bit.ly/christian-anunciado)
+* 🚀  I'm currently building **exciting real-world applications**
 * 🖥️  My current working [project](https://tina-2-0.vercel.app/)
 * 🤝  I'm open to collaborating on interesting projects
 * 🧠  I'm learning everything related to JavaScript / Typescript
